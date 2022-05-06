@@ -7,11 +7,11 @@
   <a href="https://www.linkedin.com/in/mohamed-el-omary-638386119/">
     <img src="https://img.shields.io/badge/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-el-omary-638386119/" />
   </a>
-  <a href="mailto:rafaelcodomingues@gmail.com">
+  <a href="mailto:pro@elomary.com">
     <img src="https://img.shields.io/badge/-pro@elomary.com-c14438?style=flat-square&logo=email&logoColor=white&link=mailto:pro@elomary.com" />
   </a>
   <a href="https://www.instagram.com/coderzilla/">
-    <img src="https://img.shields.io/instagram&style=social" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </span>
 ## INTERESTS
