@@ -5,7 +5,7 @@
 ## SOCIAL MEDIA LINKS
 <span align="left">
   <a href="https://www.linkedin.com/in/mohamed-el-omary-638386119/">
-    <img src="https://img.shields.io/badge/?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-el-omary-638386119/" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pro@elomary.com">
     <img src="https://img.shields.io/badge/-pro@elomary.com-c14438?style=flat-square&logo=email&logoColor=white&link=mailto:pro@elomary.com" />
