@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pro@elomary.com">
-    <img src="https://img.shields.io/badge/-pro@elomary.com-c14438?style=flat-square&logo=email&logoColor=white&link=mailto:pro@elomary.com" />
+    <img src="https://img.shields.io/?style=for-the-badge&logo=email/-pro@elomary.com/" />
   </a>
   <a href="https://www.instagram.com/coderzilla/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
