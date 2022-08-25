@@ -2,7 +2,7 @@
 
 ![hero picture](assets/github_banner.png)
 ## INRODUCTION
- <p>I'm a self-taught web developer and a computer scientist for more than 5 years, working on different projects from a low level like building functions using assembly and also building web server using c++, I was studying computer science at 1337 coding school which is part of 42 network, there where I built solid background in coding, and also gives me chance to meet people who have the same passion as me, thanks 1337.</p>
+ <p>I m a self-taught web developer and a computer scientist, working on a variety of low-level projects such as building functions using assembly and building web servers using C++. I studied computer science at 1337 Coding School. It is part of the 42 network, there where I built a solid background in coding, It also gives me the opportunity to meet people who share the same passion as me. Thanks to 1337.</p>
  
  
 ## STATISTICS
