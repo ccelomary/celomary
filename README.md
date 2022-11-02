@@ -11,7 +11,7 @@
 
 ## SOCIAL MEDIA LINKS
 <span align="left">
-  <a href="https://www.linkedin.com/in/mohamed-el-omary-638386119/">
+  <a href="https://www.linkedin.com/in/mohamed-elomary-638386119/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:pro@elomary.com">
