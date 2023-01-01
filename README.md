@@ -8,6 +8,7 @@
  
 ## STATISTICS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celomary&layout=compact&theme=dark)](https://github.com/celomary/github-readme-stats)
+</br>
 ![celomary’ GitHub stats](https://github-readme-stats.vercel.app/api?username=celomary&theme=dark&show_icons=true&count_private=true)
 
 ## SOCIAL MEDIA LINKS
