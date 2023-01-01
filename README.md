@@ -1,6 +1,6 @@
 ### MOHAMED EL OMARY
 
-![hero picture](assets/github_banner.png)
+![hero picture](assets/banner.png)
 ## INRODUCTION
  <p>Hello 👋,</p>
  <p>I'm Mohamed, Software Developer & Frontend Developer enthusiast based in Morocco, I developed different applications from low level like building 80's games using to modern applications like ecommerce stores and mobile application, i'm also kind of person who love learn new technologies and apply them in real world projects</p>
