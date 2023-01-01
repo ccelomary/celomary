@@ -2,7 +2,8 @@
 
 ![hero picture](assets/github_banner.png)
 ## INRODUCTION
- <p>I m a self-taught web developer and a computer scientist, working on a variety of low-level projects such as building functions using assembly and building web servers using C++. I studied computer science at 1337 Coding School. It is part of the 42 network, there where I built a solid background in coding, It also gives me the opportunity to meet people who share the same passion as me. Thanks to 1337.</p>
+ <p>Hello 👋,</p>
+ <p>I'm Mohamed, Software Developer & Frontend Developer enthusiast based in Morocco, I developed different applications from low level like building 80's games using to modern applications like ecommerce stores and mobile application, i'm also kind of person who love learn new technologies and apply them in real world projects</p>
  
  
 ## STATISTICS
