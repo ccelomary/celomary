@@ -25,5 +25,5 @@
 </span>
 
 ## INTERESTS & GOALS
-- 🔭 I’m currently working on my own project
-- 🌱 I’m currently learning backend using nestjs
+- 🔭 I’m currently looking for new job
+- 🌱 I’m currently learning react native & graphql
