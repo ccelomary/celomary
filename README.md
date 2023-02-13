@@ -4,6 +4,7 @@
 ## INRODUCTION
  <p>Hello 👋,</p>
  <p>I'm Mohamed, Software Developer & FullStack Developer enthusiast, I've been self-taught developer then i joined 1337 which helped me sharp my coding skills, and recently i started working with teammates from all around the world with different backgrounds and cultures</p>
+
 ## TECH STACK
 
 ### LANGUAGES
@@ -13,18 +14,24 @@
  <li>C & C++</li>
  <li>HTML / CSS</li>
  </ul>
+ 
 ### FRONTEND
+
  <ul>
  <li>REACTJS</li>
  <li>REDUX TOOLKIT</li>
  <li>MATERIAL UI</li>
  </ul>
+ 
 ### BACKEND
+
  <ul>
  <li>NODEJS (EXPRESSJS)</li>
  <li>MONGODB</li>
  </ul>
+ 
 ### PROJECT MANAGEMENT
+
  <ul>
  <li>GITHUB</li>
  <li>JIRA</li>
