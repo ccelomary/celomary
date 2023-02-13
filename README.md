@@ -1,7 +1,7 @@
 ### Welcome
 ## INRODUCTION
  <p>Hello 👋,</p>
- <p>I'm self-taught Software Engineer & FullStack Developer enthusiast, i studied computer science at 1337(42-network) which helped me sharp my coding skills and gave me the opportunity to meet with other people who has the seem passion as me, recently i joined community which gather people from all around the world to work on different projects 🙌🏻</p>
+ <p>I'm self-taught Software Engineer & FullStack Developer enthusiast, i studied computer science at 1337(42-network) which helped me sharp my coding skills and gave me the opportunity to meet with other people who has the same passion as mine, and recently i joined a coding community which gather people from all around the world and that gave me opportunity to meet with different people with different backgrounds and cultures, i joined alx software engineer program as well which i'm happy to be part of</p>
 
 ## TECH STACK
 
