@@ -28,6 +28,12 @@
  <li>MONGODB</li>
  </ul>
  
+### MOBILE
+
+<ul>
+ <li>REACT NATIVE</li>
+</ul>
+
 ### PROJECT MANAGEMENT
 
  <ul>
