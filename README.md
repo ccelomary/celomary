@@ -1,52 +1,8 @@
 ### Welcome
 ## INRODUCTION
  <p>Hello 👋,</p>
- <p>I'm self-taught Software Engineer & FullStack Developer enthusiast, i studied computer science at 1337(42-network) which helped me sharp my coding skills and gave me the opportunity to meet with other people who has the same passion as mine, and recently i joined a coding community which gather people from all around the world and that gave me opportunity to meet with different people with different backgrounds and cultures, i joined alx software engineer program as well which i'm glad to be part of</p>
-
-## TECH STACK
-
-### LANGUAGES
- <ul>
- <li>JAVASCRIPT & TYPESCRIPT</li>
- <li>Python</li>
- <li>C & C++</li>
- <li>HTML / CSS</li>
- </ul>
+ <p>I'm self-taught Software Engineer & FullStack Developer enthusiast, i started programming on an early age as self-taught developer then after a period of time i decided to join 1337(42-network) which helped me learn a lot of things about programming and logic and also gave me a chance to meet people who have same passion as mine, recently i started working with group of people and that help me learn more about working with group and how to contribute on a bigger projects</p>
  
-### FRONTEND
-
- <ul>
- <li>REACTJS</li>
- <li>REDUX TOOLKIT</li>
- <li>MATERIAL UI</li>
- </ul>
- 
-### BACKEND
-
- <ul>
- <li>NODEJS (EXPRESSJS)</li>
- <li>MONGODB</li>
- </ul>
- 
-### MOBILE
-
-<ul>
- <li>REACT NATIVE</li>
-</ul>
-
-### PROJECT MANAGEMENT
-
- <ul>
- <li>GITHUB</li>
- <li>JIRA</li>
- </ul>
- 
-### METHODOLOGY
-
- <ul>
- <li>AGILE(SCRUM)</li>
- </ul>
-
 ## STATISTICS
 
 ![celomary’ GitHub stats](https://github-readme-stats.vercel.app/api?username=celomary&theme=dark&show_icons=true&count_private=true)
