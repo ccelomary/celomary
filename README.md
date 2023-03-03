@@ -1,4 +1,9 @@
 <img src="https://www.codewars.com/users/celomary/badges/large" alt="kata large" />
+<span align="left">
+  <a href="https://www.linkedin.com/in/mohamed-elomary-638386119/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</span>
 
 ### Welcome
 ## INRODUCTION
@@ -10,12 +15,6 @@
 ![celomary’ GitHub stats](https://github-readme-stats.vercel.app/api?username=celomary&theme=dark&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celomary&layout=compact&theme=dark)](https://github.com/celomary/github-readme-stats)
 </br>
-
-<span align="left">
-  <a href="https://www.linkedin.com/in/mohamed-elomary-638386119/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</span>
 
 ## INTERESTS & GOALS
 - 🔭 I’m currently looking for new job
