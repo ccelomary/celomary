@@ -11,7 +11,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celomary&layout=compact&theme=dark)](https://github.com/celomary/github-readme-stats)
 </br>
 
-## SOCIAL MEDIA LINKS
 <span align="left">
   <a href="https://www.linkedin.com/in/mohamed-elomary-638386119/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
