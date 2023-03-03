@@ -1,5 +1,6 @@
-<img src="https://www.codewars.com/users/celomary/badges/large" alt="kata large" />
+
 <span align="left">
+  <img src="https://www.codewars.com/users/celomary/badges/large" alt="kata large" />
   <a href="https://www.linkedin.com/in/mohamed-elomary-638386119/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
