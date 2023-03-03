@@ -16,12 +16,6 @@
   <a href="https://www.linkedin.com/in/mohamed-elomary-638386119/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:pro@elomary.com">
-    <img src="https://img.shields.io/badge/MAIL-000?style=for-the-badge&logo=Mail.Ru&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/coderzilla/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </span>
 
 ## INTERESTS & GOALS
