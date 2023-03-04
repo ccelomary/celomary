@@ -20,5 +20,5 @@
 </br>
 
 ## INTERESTS & GOALS
-- 🔭 I’m currently looking for new job
-- 🌱 I’m currently learning react native & graphql
+- 🔭 I’m currently looking for new job opportunites
+- 🌱 I’m currently learning about reactjs, react testing library, jest, prettier, eslint, editorconfig, and others...
