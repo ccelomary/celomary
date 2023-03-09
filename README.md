@@ -18,7 +18,3 @@
 ![celomary’ GitHub stats](https://github-readme-stats.vercel.app/api?username=celomary&theme=dark&show_icons=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=celomary&layout=compact&theme=dark)](https://github.com/celomary/github-readme-stats)
 </br>
-
-## INTERESTS & GOALS
-- 🔭 I’m currently looking for new job opportunites
-- 🌱 I’m currently learning about reactjs, react testing library, jest, prettier, eslint, editorconfig, and others...
